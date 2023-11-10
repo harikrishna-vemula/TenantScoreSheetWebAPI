@@ -1,0 +1,257 @@
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\appsettings.json
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\appsettings.Release.json
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\appsettings.Staging.json
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.exe
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.deps.json
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.runtimeconfig.json
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.pdb
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Azure.Core.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Azure.Identity.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\System.Memory.Data.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.BusinessLayer.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.DomainLayer.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.BusinessLayer.pdb
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.DomainLayer.pdb
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.csproj.AssemblyReference.cache
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.AssemblyInfoInputs.cache
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.AssemblyInfo.cs
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.csproj.CoreCompileInputs.cache
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\staticwebassets\msbuild.TMGAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.TMGAPI.props
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TMGAPI.props
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TMGAPI.props
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\scopedcss\bundle\TMGAPI.styles.css
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.csproj.CopyComplete
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.dll
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\refint\TMGAPI.dll
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.pdb
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.genruntimeconfig.cache
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\ref\TMGAPI.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.DependenciesLayer.dll
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.DependenciesLayer.pdb
+E:\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.xml
+E:\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.xml
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\appsettings.json
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\appsettings.Release.json
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\appsettings.Staging.json
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.exe
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.deps.json
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.runtimeconfig.json
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.pdb
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.xml
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Azure.Core.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Azure.Identity.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\System.Memory.Data.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.BusinessLayer.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.DependenciesLayer.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.DomainLayer.dll
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.BusinessLayer.pdb
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.DependenciesLayer.pdb
+E:\TMG T3\TMGAPI\TMGAPI\bin\Debug\net6.0\TMGAPI.DomainLayer.pdb
+E:\TMG T3\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.csproj.AssemblyReference.cache
+E:\TMG T3\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\TMG T3\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.AssemblyInfoInputs.cache
+E:\TMG T3\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.AssemblyInfo.cs
+E:\TMG T3\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.csproj.CoreCompileInputs.cache
+E:\TMG T3\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\TMG T3\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\TMG T3\TMGAPI\TMGAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\TMG T3\TMGAPI\TMGAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\TMG T3\TMGAPI\TMGAPI\obj\Debug\net6.0\scopedcss\bundle\TMGAPI.styles.css
+E:\TMG T3\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.csproj.CopyComplete
+E:\TMG T3\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.dll
+E:\TMG T3\TMGAPI\TMGAPI\obj\Debug\net6.0\refint\TMGAPI.dll
+E:\TMG T3\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.xml
+E:\TMG T3\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.pdb
+E:\TMG T3\TMGAPI\TMGAPI\obj\Debug\net6.0\TMGAPI.genruntimeconfig.cache
+E:\TMG T3\TMGAPI\TMGAPI\obj\Debug\net6.0\ref\TMGAPI.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\appsettings.json
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\appsettings.Release.json
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\appsettings.Staging.json
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\TMGAPI.exe
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\TMGAPI.deps.json
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\TMGAPI.runtimeconfig.json
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\TMGAPI.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\TMGAPI.pdb
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\TMGAPI.xml
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Azure.Core.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Azure.Identity.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\System.Memory.Data.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\TMGAPI.BusinessLayer.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\TMGAPI.DependenciesLayer.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\TMGAPI.DomainLayer.dll
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\TMGAPI.BusinessLayer.pdb
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\TMGAPI.DependenciesLayer.pdb
+E:\TMG T3\TMGAPI1\TMGAPI\bin\Debug\net6.0\TMGAPI.DomainLayer.pdb
+E:\TMG T3\TMGAPI1\TMGAPI\obj\Debug\net6.0\TMGAPI.csproj.AssemblyReference.cache
+E:\TMG T3\TMGAPI1\TMGAPI\obj\Debug\net6.0\TMGAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\TMG T3\TMGAPI1\TMGAPI\obj\Debug\net6.0\TMGAPI.AssemblyInfoInputs.cache
+E:\TMG T3\TMGAPI1\TMGAPI\obj\Debug\net6.0\TMGAPI.AssemblyInfo.cs
+E:\TMG T3\TMGAPI1\TMGAPI\obj\Debug\net6.0\TMGAPI.csproj.CoreCompileInputs.cache
+E:\TMG T3\TMGAPI1\TMGAPI\obj\Debug\net6.0\TMGAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\TMG T3\TMGAPI1\TMGAPI\obj\Debug\net6.0\TMGAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\TMG T3\TMGAPI1\TMGAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\TMG T3\TMGAPI1\TMGAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\TMG T3\TMGAPI1\TMGAPI\obj\Debug\net6.0\scopedcss\bundle\TMGAPI.styles.css
+E:\TMG T3\TMGAPI1\TMGAPI\obj\Debug\net6.0\TMGAPI.csproj.CopyComplete
+E:\TMG T3\TMGAPI1\TMGAPI\obj\Debug\net6.0\TMGAPI.dll
+E:\TMG T3\TMGAPI1\TMGAPI\obj\Debug\net6.0\refint\TMGAPI.dll
+E:\TMG T3\TMGAPI1\TMGAPI\obj\Debug\net6.0\TMGAPI.xml
+E:\TMG T3\TMGAPI1\TMGAPI\obj\Debug\net6.0\TMGAPI.pdb
+E:\TMG T3\TMGAPI1\TMGAPI\obj\Debug\net6.0\TMGAPI.genruntimeconfig.cache
+E:\TMG T3\TMGAPI1\TMGAPI\obj\Debug\net6.0\ref\TMGAPI.dll

@@ -1,0 +1,51 @@
+E:\TMGAPI\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.csproj.AssemblyReference.cache
+E:\TMGAPI\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\TMGAPI\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.AssemblyInfoInputs.cache
+E:\TMGAPI\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.AssemblyInfo.cs
+E:\TMGAPI\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.csproj.CoreCompileInputs.cache
+E:\TMGAPI\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.DependenciesLayer.deps.json
+E:\TMGAPI\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.DependenciesLayer.dll
+E:\TMGAPI\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.DependenciesLayer.pdb
+E:\TMGAPI\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.dll
+E:\TMGAPI\TMGAPI.DILayer\obj\Debug\net6.0\refint\TMGAPI.DependenciesLayer.dll
+E:\TMGAPI\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.pdb
+E:\TMGAPI\TMGAPI.DILayer\obj\Debug\net6.0\ref\TMGAPI.DependenciesLayer.dll
+E:\TMGAPI\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.BusinessLayer.dll
+E:\TMGAPI\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.DomainLayer.dll
+E:\TMGAPI\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.BusinessLayer.pdb
+E:\TMGAPI\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.DomainLayer.pdb
+E:\TMGAPI\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.csproj.CopyComplete
+E:\TMG T3\TMGAPI\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.DependenciesLayer.deps.json
+E:\TMG T3\TMGAPI\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.DependenciesLayer.dll
+E:\TMG T3\TMGAPI\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.DependenciesLayer.pdb
+E:\TMG T3\TMGAPI\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.BusinessLayer.dll
+E:\TMG T3\TMGAPI\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.DomainLayer.dll
+E:\TMG T3\TMGAPI\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.BusinessLayer.pdb
+E:\TMG T3\TMGAPI\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.DomainLayer.pdb
+E:\TMG T3\TMGAPI\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.csproj.AssemblyReference.cache
+E:\TMG T3\TMGAPI\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\TMG T3\TMGAPI\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.AssemblyInfoInputs.cache
+E:\TMG T3\TMGAPI\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.AssemblyInfo.cs
+E:\TMG T3\TMGAPI\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.csproj.CoreCompileInputs.cache
+E:\TMG T3\TMGAPI\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.csproj.CopyComplete
+E:\TMG T3\TMGAPI\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.dll
+E:\TMG T3\TMGAPI\TMGAPI.DILayer\obj\Debug\net6.0\refint\TMGAPI.DependenciesLayer.dll
+E:\TMG T3\TMGAPI\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.pdb
+E:\TMG T3\TMGAPI\TMGAPI.DILayer\obj\Debug\net6.0\ref\TMGAPI.DependenciesLayer.dll
+E:\TMG T3\TMGAPI1\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.DependenciesLayer.deps.json
+E:\TMG T3\TMGAPI1\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.DependenciesLayer.dll
+E:\TMG T3\TMGAPI1\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.DependenciesLayer.pdb
+E:\TMG T3\TMGAPI1\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.BusinessLayer.dll
+E:\TMG T3\TMGAPI1\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.DomainLayer.dll
+E:\TMG T3\TMGAPI1\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.BusinessLayer.pdb
+E:\TMG T3\TMGAPI1\TMGAPI.DILayer\bin\Debug\net6.0\TMGAPI.DomainLayer.pdb
+E:\TMG T3\TMGAPI1\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.csproj.AssemblyReference.cache
+E:\TMG T3\TMGAPI1\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\TMG T3\TMGAPI1\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.AssemblyInfoInputs.cache
+E:\TMG T3\TMGAPI1\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.AssemblyInfo.cs
+E:\TMG T3\TMGAPI1\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.csproj.CoreCompileInputs.cache
+E:\TMG T3\TMGAPI1\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.csproj.CopyComplete
+E:\TMG T3\TMGAPI1\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.dll
+E:\TMG T3\TMGAPI1\TMGAPI.DILayer\obj\Debug\net6.0\refint\TMGAPI.DependenciesLayer.dll
+E:\TMG T3\TMGAPI1\TMGAPI.DILayer\obj\Debug\net6.0\TMGAPI.DependenciesLayer.pdb
+E:\TMG T3\TMGAPI1\TMGAPI.DILayer\obj\Debug\net6.0\ref\TMGAPI.DependenciesLayer.dll

@@ -1,0 +1,42 @@
+E:\TMGAPI\TMGAPI.DomainLayer\bin\Debug\net6.0\TMGAPI.DomainLayer.deps.json
+E:\TMGAPI\TMGAPI.DomainLayer\bin\Debug\net6.0\TMGAPI.DomainLayer.runtimeconfig.json
+E:\TMGAPI\TMGAPI.DomainLayer\bin\Debug\net6.0\TMGAPI.DomainLayer.dll
+E:\TMGAPI\TMGAPI.DomainLayer\bin\Debug\net6.0\TMGAPI.DomainLayer.pdb
+E:\TMGAPI\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.csproj.AssemblyReference.cache
+E:\TMGAPI\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\TMGAPI\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.AssemblyInfoInputs.cache
+E:\TMGAPI\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.AssemblyInfo.cs
+E:\TMGAPI\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.csproj.CoreCompileInputs.cache
+E:\TMGAPI\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.dll
+E:\TMGAPI\TMGAPI.DomainLayer\obj\Debug\net6.0\refint\TMGAPI.DomainLayer.dll
+E:\TMGAPI\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.pdb
+E:\TMGAPI\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.genruntimeconfig.cache
+E:\TMGAPI\TMGAPI.DomainLayer\obj\Debug\net6.0\ref\TMGAPI.DomainLayer.dll
+E:\TMG T3\TMGAPI\TMGAPI.DomainLayer\bin\Debug\net6.0\TMGAPI.DomainLayer.deps.json
+E:\TMG T3\TMGAPI\TMGAPI.DomainLayer\bin\Debug\net6.0\TMGAPI.DomainLayer.runtimeconfig.json
+E:\TMG T3\TMGAPI\TMGAPI.DomainLayer\bin\Debug\net6.0\TMGAPI.DomainLayer.dll
+E:\TMG T3\TMGAPI\TMGAPI.DomainLayer\bin\Debug\net6.0\TMGAPI.DomainLayer.pdb
+E:\TMG T3\TMGAPI\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.csproj.AssemblyReference.cache
+E:\TMG T3\TMGAPI\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\TMG T3\TMGAPI\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.AssemblyInfoInputs.cache
+E:\TMG T3\TMGAPI\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.AssemblyInfo.cs
+E:\TMG T3\TMGAPI\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.csproj.CoreCompileInputs.cache
+E:\TMG T3\TMGAPI\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.dll
+E:\TMG T3\TMGAPI\TMGAPI.DomainLayer\obj\Debug\net6.0\refint\TMGAPI.DomainLayer.dll
+E:\TMG T3\TMGAPI\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.pdb
+E:\TMG T3\TMGAPI\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.genruntimeconfig.cache
+E:\TMG T3\TMGAPI\TMGAPI.DomainLayer\obj\Debug\net6.0\ref\TMGAPI.DomainLayer.dll
+E:\TMG T3\TMGAPI1\TMGAPI.DomainLayer\bin\Debug\net6.0\TMGAPI.DomainLayer.deps.json
+E:\TMG T3\TMGAPI1\TMGAPI.DomainLayer\bin\Debug\net6.0\TMGAPI.DomainLayer.runtimeconfig.json
+E:\TMG T3\TMGAPI1\TMGAPI.DomainLayer\bin\Debug\net6.0\TMGAPI.DomainLayer.dll
+E:\TMG T3\TMGAPI1\TMGAPI.DomainLayer\bin\Debug\net6.0\TMGAPI.DomainLayer.pdb
+E:\TMG T3\TMGAPI1\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.csproj.AssemblyReference.cache
+E:\TMG T3\TMGAPI1\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\TMG T3\TMGAPI1\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.AssemblyInfoInputs.cache
+E:\TMG T3\TMGAPI1\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.AssemblyInfo.cs
+E:\TMG T3\TMGAPI1\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.csproj.CoreCompileInputs.cache
+E:\TMG T3\TMGAPI1\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.dll
+E:\TMG T3\TMGAPI1\TMGAPI.DomainLayer\obj\Debug\net6.0\refint\TMGAPI.DomainLayer.dll
+E:\TMG T3\TMGAPI1\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.pdb
+E:\TMG T3\TMGAPI1\TMGAPI.DomainLayer\obj\Debug\net6.0\TMGAPI.DomainLayer.genruntimeconfig.cache
+E:\TMG T3\TMGAPI1\TMGAPI.DomainLayer\obj\Debug\net6.0\ref\TMGAPI.DomainLayer.dll

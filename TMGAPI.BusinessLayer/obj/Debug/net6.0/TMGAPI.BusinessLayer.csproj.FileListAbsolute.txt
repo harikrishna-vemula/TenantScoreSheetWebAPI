@@ -1,0 +1,45 @@
+E:\TMGAPI\TMGAPI.BusinessLayer\bin\Debug\net6.0\TMGAPI.BusinessLayer.deps.json
+E:\TMGAPI\TMGAPI.BusinessLayer\bin\Debug\net6.0\TMGAPI.BusinessLayer.dll
+E:\TMGAPI\TMGAPI.BusinessLayer\bin\Debug\net6.0\TMGAPI.BusinessLayer.pdb
+E:\TMGAPI\TMGAPI.BusinessLayer\bin\Debug\net6.0\TMGAPI.DomainLayer.dll
+E:\TMGAPI\TMGAPI.BusinessLayer\bin\Debug\net6.0\TMGAPI.DomainLayer.pdb
+E:\TMGAPI\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.csproj.AssemblyReference.cache
+E:\TMGAPI\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\TMGAPI\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.AssemblyInfoInputs.cache
+E:\TMGAPI\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.AssemblyInfo.cs
+E:\TMGAPI\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\TMGAPI\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.csproj.CopyComplete
+E:\TMGAPI\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.dll
+E:\TMGAPI\TMGAPI.BusinessLayer\obj\Debug\net6.0\refint\TMGAPI.BusinessLayer.dll
+E:\TMGAPI\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.pdb
+E:\TMGAPI\TMGAPI.BusinessLayer\obj\Debug\net6.0\ref\TMGAPI.BusinessLayer.dll
+E:\TMG T3\TMGAPI\TMGAPI.BusinessLayer\bin\Debug\net6.0\TMGAPI.BusinessLayer.deps.json
+E:\TMG T3\TMGAPI\TMGAPI.BusinessLayer\bin\Debug\net6.0\TMGAPI.BusinessLayer.dll
+E:\TMG T3\TMGAPI\TMGAPI.BusinessLayer\bin\Debug\net6.0\TMGAPI.BusinessLayer.pdb
+E:\TMG T3\TMGAPI\TMGAPI.BusinessLayer\bin\Debug\net6.0\TMGAPI.DomainLayer.dll
+E:\TMG T3\TMGAPI\TMGAPI.BusinessLayer\bin\Debug\net6.0\TMGAPI.DomainLayer.pdb
+E:\TMG T3\TMGAPI\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.csproj.AssemblyReference.cache
+E:\TMG T3\TMGAPI\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\TMG T3\TMGAPI\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.AssemblyInfoInputs.cache
+E:\TMG T3\TMGAPI\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.AssemblyInfo.cs
+E:\TMG T3\TMGAPI\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\TMG T3\TMGAPI\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.csproj.CopyComplete
+E:\TMG T3\TMGAPI\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.dll
+E:\TMG T3\TMGAPI\TMGAPI.BusinessLayer\obj\Debug\net6.0\refint\TMGAPI.BusinessLayer.dll
+E:\TMG T3\TMGAPI\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.pdb
+E:\TMG T3\TMGAPI\TMGAPI.BusinessLayer\obj\Debug\net6.0\ref\TMGAPI.BusinessLayer.dll
+E:\TMG T3\TMGAPI1\TMGAPI.BusinessLayer\bin\Debug\net6.0\TMGAPI.BusinessLayer.deps.json
+E:\TMG T3\TMGAPI1\TMGAPI.BusinessLayer\bin\Debug\net6.0\TMGAPI.BusinessLayer.dll
+E:\TMG T3\TMGAPI1\TMGAPI.BusinessLayer\bin\Debug\net6.0\TMGAPI.BusinessLayer.pdb
+E:\TMG T3\TMGAPI1\TMGAPI.BusinessLayer\bin\Debug\net6.0\TMGAPI.DomainLayer.dll
+E:\TMG T3\TMGAPI1\TMGAPI.BusinessLayer\bin\Debug\net6.0\TMGAPI.DomainLayer.pdb
+E:\TMG T3\TMGAPI1\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.csproj.AssemblyReference.cache
+E:\TMG T3\TMGAPI1\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\TMG T3\TMGAPI1\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.AssemblyInfoInputs.cache
+E:\TMG T3\TMGAPI1\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.AssemblyInfo.cs
+E:\TMG T3\TMGAPI1\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\TMG T3\TMGAPI1\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.csproj.CopyComplete
+E:\TMG T3\TMGAPI1\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.dll
+E:\TMG T3\TMGAPI1\TMGAPI.BusinessLayer\obj\Debug\net6.0\refint\TMGAPI.BusinessLayer.dll
+E:\TMG T3\TMGAPI1\TMGAPI.BusinessLayer\obj\Debug\net6.0\TMGAPI.BusinessLayer.pdb
+E:\TMG T3\TMGAPI1\TMGAPI.BusinessLayer\obj\Debug\net6.0\ref\TMGAPI.BusinessLayer.dll
